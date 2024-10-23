@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\Keypad_dowhile\bin\Debug\net8.0\Keypad_dowhile.exe
+C:\Users\vedaa\source\repos\Keypad_dowhile\bin\Debug\net8.0\Keypad_dowhile.deps.json
+C:\Users\vedaa\source\repos\Keypad_dowhile\bin\Debug\net8.0\Keypad_dowhile.runtimeconfig.json
+C:\Users\vedaa\source\repos\Keypad_dowhile\bin\Debug\net8.0\Keypad_dowhile.dll
+C:\Users\vedaa\source\repos\Keypad_dowhile\bin\Debug\net8.0\Keypad_dowhile.pdb
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.dll
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\refint\Keypad_dowhile.dll
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.pdb
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\Keypad_dowhile.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\Keypad_dowhile\obj\Debug\net8.0\ref\Keypad_dowhile.dll
